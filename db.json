@@ -1,0 +1,120 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "image": "images/product-1.jpg",
+         "name": "Product 1",
+         "price": 123,
+         "category": "electronics"
+      },
+      {
+         "id": 2,
+         "image": "images/product-2.jpg",
+         "name": "Product 2",
+         "price": 111,
+         "category": "bags"
+      },
+      {
+         "id": 3,
+         "image": "images/product-3.jpg",
+         "name": "Product 3",
+         "price": 222,
+         "category": "clothes"
+      },
+      {
+         "id": 4,
+         "image": "images/product-4.jpg",
+         "name": "Product 4",
+         "price": 333,
+         "category": "watches"
+      },
+      {
+         "id": 5,
+         "image": "images/product-5.jpg",
+         "name": "Product 5",
+         "price": 444,
+         "category": "electronocs"
+      },
+      {
+         "id": 6,
+         "image": "images/product-6.jpg",
+         "name": "Product 6",
+         "price": 555,
+         "category": "shoes"
+      },
+      {
+         "id": 7,
+         "image": "images/product-7.jpg",
+         "name": "Product 7",
+         "price": 666,
+         "category": "cosmetics"
+      },
+      {
+         "id": 8,
+         "image": "images/product-8.jpg",
+         "name": "Product 8",
+         "price": 777,
+         "category": "watches"
+      },
+      {
+         "id": 9,
+         "image": "images/product-9.jpg",
+         "name": "Product 9",
+         "price": 356,
+         "category": "watches"
+      },
+      {
+         "id": 10,
+         "image": "images/product-10.jpg",
+         "name": "Product 10",
+         "price": 432,
+         "category": "electronics"
+      },
+      {
+         "id": 11,
+         "image": "images/product-11.jpg",
+         "name": "Product 11",
+         "price": 543,
+         "category": "shoes"
+      },
+      {
+         "id": 12,
+         "image": "images/product-12.jpg",
+         "name": "Product 12",
+         "price": 777,
+         "category": "electromics"
+      }
+   ],
+   "categories": [
+      {
+         "id": 1,
+         "image": "images/cat-img-1.jpg",
+         "name": "clothes"
+      },
+      {
+         "id": 2,
+         "image": "images/cat-img-2.jpg",
+         "name": "shoes"
+      },
+      {
+         "id": 3,
+         "image": "images/cat-img-3.jpg",
+         "name": "watches"
+      },
+      {
+         "id": 4,
+         "image": "images/cat-img-4.jpg",
+         "name": "electronics"
+      },
+      {
+         "id": 5,
+         "image": "images/cat-img-4.jpg",
+         "name": "bags"
+      },
+      {
+         "id": 6,
+         "image": "images/cat-img-4.jpg",
+         "name": "cosmetics"
+      }
+   ]
+}
